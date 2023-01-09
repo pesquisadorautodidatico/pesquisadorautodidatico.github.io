@@ -470,7 +470,14 @@ mark,
   max-width: 90%;
   height: auto;
   border-radius: 50%;
-  margin-top: 7em;  
+  margin-top: 8em;  
+}
+
+.fluid{
+  max-width: 90%;
+  height: auto;
+  border-radius: 50%;
+  margin-top: 2em;
 }
 
 .img-thumbnail {
@@ -10122,24 +10129,30 @@ header.masthead h1 {
   color: #fff;
   background: rgba(244, 98, 58, 0.9);
   transition: opacity 0.25s ease;
-  text-align: center;
-  
+  text-align: center;  
 }
+
+.categories-box-caption{
+margin-top: 1em;
+}
+
 #categories .container-fluid .categories-box .categories-box-caption .project-category, #categories .container-sm .categories-box .categories-box-caption .project-category, #categories .container-md .categories-box .categories-box-caption .project-category, #categories .container-lg .categories-box .categories-box-caption .project-category, #categories .container-xl .categories-box .categories-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
-  text-transform: uppercase;
-  
-  
+  text-transform: uppercase;   
 }
+
 #categories .container-fluid .categories-box .categories-box-caption .project-name, #categories .container-sm .categories-box .categories-box-caption .project-name, #categories .container-md .categories-box .categories-box-caption .project-name, #categories .container-lg .categories-box .categories-box-caption .project-name, #categories .container-xl .categories-box .categories-box-caption .project-name {
   font-size: 1.2rem;
-  text-align: center;
-
-  
-    
+  text-align: center;      
 }
+
+.project-name{
+  margin-top: -1em;
+
+}
+
 #categories .container-fluid .categories-box:hover .categories-box-caption, #categories .container-sm .categories-box:hover .categories-box-caption, #categories .container-md .categories-box:hover .categories-box-caption, #categories .container-lg .categories-box:hover .categories-box-caption, #categories .container-xl .categories-box:hover .categories-box-caption {
   opacity: 1;  
 }

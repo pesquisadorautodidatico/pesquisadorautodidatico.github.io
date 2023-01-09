@@ -11386,16 +11386,21 @@ transition: opacity 0.25s ease;
 }
 
 .pdf{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
   width: auto;
   height: auto;
   margin-left: 100px;    
 }
 
-.copyright{
-  text-align: center;
+.copyright{  
   color: #b02a37;
   margin-top: -6em;
   font-size: 1rem;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 
 }
 
@@ -11404,5 +11409,8 @@ transition: opacity 0.25s ease;
   height: 240px;  
   display:inline-flex;
   margin-left: 85px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
   
