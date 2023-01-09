@@ -11277,6 +11277,7 @@ p.lead {
     display: block;
   }
 }
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -11326,6 +11327,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.end{
+  text-align: center;
+  color: #b02a37;
+    
+}
+
 
 /*!.. Style social media ..*/
 .botao-rs{
