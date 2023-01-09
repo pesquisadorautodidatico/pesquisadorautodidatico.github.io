@@ -7703,9 +7703,11 @@ textarea.form-control-lg {
   word-break: break-word !important;
 }
 
-.text-primary {  
+.text-primary {
   color: #000000;
-  text-align: center;  
+  justify-content: center;
+  text-align: center;
+  align-items: center;  
 }
 
 .bg-primary {
