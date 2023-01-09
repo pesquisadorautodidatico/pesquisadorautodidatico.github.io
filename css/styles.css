@@ -467,9 +467,10 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   border-radius: 50%;
+  margin-top: 7em;  
 }
 
 .img-thumbnail {
@@ -1279,6 +1280,7 @@ pre code {
   .col-lg-3 {
     flex: 0 0 25%;
     max-width: 25%;
+    margin-top: 2em;
   }
 
   .col-lg-4 {
@@ -1304,6 +1306,7 @@ pre code {
   .col-lg-8 {
     flex: 0 0 66.6666666667%;
     max-width: 66.6666666667%;
+    margin-top: 5em;
   }
 
   .col-lg-9 {
@@ -10192,10 +10195,12 @@ margin-left:0;
 .social{
   display: flex;  
   justify-content: center;  
-  transition: opacity 0.25s ease;  
+  transition: opacity 0.25s ease;
+  margin-top: -5em;    
 }
 
-.end{
+.copyright{
   text-align: center;
-  color: #b02a37;    
+  color: #b02a37;
+  margin-top: -2em;    
 }

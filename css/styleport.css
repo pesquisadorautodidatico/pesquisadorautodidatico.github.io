@@ -11383,9 +11383,18 @@ justify-content: center;
 transition: opacity 0.25s ease;
 }
 
-.end{
+.pdf{
+  width: auto;
+  height: auto;
+  margin-left: 100px;    
+}
+
+.copyright{
   text-align: center;
-  color: #b02a37;    
+  color: #b02a37;
+  margin-top: -6em;
+  font-size: 1rem;
+
 }
 
 .video{
