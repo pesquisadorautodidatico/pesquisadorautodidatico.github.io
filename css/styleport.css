@@ -11387,3 +11387,11 @@ transition: opacity 0.25s ease;
   text-align: center;
   color: #b02a37;    
 }
+
+.video{
+  width: 350px; 
+  height: 240px;  
+  display:inline-flex;
+  margin-left: 85px;
+}
+  
