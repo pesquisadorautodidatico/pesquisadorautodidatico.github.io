@@ -7704,10 +7704,8 @@ textarea.form-control-lg {
 }
 
 .text-primary {
-  color: #000000;
-  justify-content: center;
-  text-align: center;
-  align-items: center;  
+  color: #000000;  
+  text-align: center;   
 }
 
 .bg-primary {
