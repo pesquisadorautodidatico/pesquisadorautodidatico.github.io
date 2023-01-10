@@ -7705,7 +7705,8 @@ textarea.form-control-lg {
 
 .text-primary {
   color: #000000;  
-  text-align: center;   
+  text-align: center;
+  text-decoration: none;   
 }
 
 .bg-primary {
