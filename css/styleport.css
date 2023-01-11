@@ -11398,7 +11398,7 @@ transition: opacity 0.25s ease;
 }
 
 .copyright{ 
-  display: flex; 
+  display:flexbox;
   color: #b02a37;
   margin-top: -6em;
   font-size: 1rem;  
