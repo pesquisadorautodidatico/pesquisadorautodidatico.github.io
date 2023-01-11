@@ -11385,11 +11385,13 @@ transition: opacity 0.25s ease;
 }
 
 .pdf{
-  display: inline;
-  text-align: center;  
-  width: auto;
-  height: auto;
-  margin-left: 100px;    
+  display:flex;   
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 300px;
+  height: 300px;   
+   
 }
 
 .video{
@@ -11400,7 +11402,7 @@ transition: opacity 0.25s ease;
 .copyright{ 
   display:flexbox;
   color: #b02a37;
-  margin-top: -6em;
+  margin-top: -8em;
   font-size: 1rem;  
   text-align: center;   
 }
