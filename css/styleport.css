@@ -11393,11 +11393,12 @@ transition: opacity 0.25s ease;
 }
 
 .video{
-  display:block;
+  display:flexbox;
   width: 450px; 
-  height: 340px;  
+  height: 350px;  
   display: inline;
-  text-align: center;   
+  text-align: center;
+     
 }
 
 .copyright{  
