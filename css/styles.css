@@ -10176,6 +10176,10 @@ margin-top: 1em;
   
 }
 
+.linkedin{
+  background:#0e76a8;
+}
+
 .facebook{
   background:#3b5998;
 }
@@ -10189,8 +10193,8 @@ margin-top: 1em;
 background:#15cc31;
 }
 
-.linkedin{
-  background:#0e76a8;
+.github{
+  background:#16181b;
 }
 
 .botao-rs span{

@@ -11350,6 +11350,11 @@ section.resume-section .resume-section-content {
   display: inherit;    
 }
 
+.linkedin{
+  background:#0e76a8;
+}
+
+
 .facebook{
   background:#3b5998;
 }
@@ -11363,8 +11368,8 @@ section.resume-section .resume-section-content {
 background:#15cc31;
 }
 
-.linkedin{
-  background:#0e76a8;
+.github{
+  background:#16181b;
 }
 
 .botao-rs span{
