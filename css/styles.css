@@ -10180,6 +10180,10 @@ margin-top: 1em;
   background:#0e76a8;
 }
 
+.github{
+  background:#16181b;
+}
+
 .facebook{
   background:#3b5998;
 }
@@ -10191,10 +10195,6 @@ margin-top: 1em;
 
 .whatsapp{
 background:#15cc31;
-}
-
-.github{
-  background:#16181b;
 }
 
 .botao-rs span{
