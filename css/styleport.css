@@ -11394,17 +11394,15 @@ transition: opacity 0.25s ease;
 
 .video{
   display:flexbox;
-  width: 450px; 
-  height: 350px;  
-  display: inline;
   text-align: center;
      
 }
 
-.copyright{  
+.copyright{ 
+  display: flex; 
   color: #b02a37;
   margin-top: -6em;
   font-size: 1rem;  
-  text-align: center;  
+  text-align: center;   
 }
   
