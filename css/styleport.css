@@ -11386,6 +11386,8 @@ margin-left:0;
 display: flex;  
 justify-content: center;  
 transition: opacity 0.25s ease;
+font-size: 10px;
+
 }
 
 .pdf{
@@ -11399,7 +11401,7 @@ transition: opacity 0.25s ease;
 
 .video{
   display:flexbox;
-  text-align: center;     
+  text-align: center;         
 }
 
 .copyright{ 
@@ -11407,6 +11409,6 @@ transition: opacity 0.25s ease;
   color: #b02a37;
   margin-top: -8em;
   font-size: 1rem;  
-  text-align: center;   
+  text-align: center; 
 }
   

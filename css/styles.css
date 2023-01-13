@@ -10213,7 +10213,8 @@ margin-left:0;
   display: flex;  
   justify-content: center;  
   transition: opacity 0.25s ease;
-  margin-top: -5em;    
+  margin-top: -5em;
+  font-size: 10px    
 }
 
 .copyright{
