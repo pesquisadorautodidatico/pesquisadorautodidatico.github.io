@@ -470,13 +470,6 @@ mark,
   max-width: 90%;
   height: auto;
   border-radius: 50%;
-  margin-top: 8em;  
-}
-
-.fluid{
-  max-width: 90%;
-  height: auto;
-  border-radius: 50%;
   margin-top: 2em;
 }
 
@@ -1292,7 +1285,7 @@ pre code {
 
   .col-lg-4 {
     flex: 0 0 33.3333333333%;
-    max-width: 33.3333333333%;
+    max-width: 33.3333333333%;     
   }
 
   .col-lg-5 {
