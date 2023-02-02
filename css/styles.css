@@ -3964,7 +3964,7 @@ input[type=button].btn-block {
 }
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
+  padding-top: 0.9200rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
@@ -10214,4 +10214,10 @@ margin-left:0;
   text-align: center;
   color: #b02a37;
   margin-top: -2em;    
+}
+
+/*!..Contador de visitas..*/
+.contador{
+  border:'0';
+  text-align: center;
 }
